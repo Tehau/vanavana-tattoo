@@ -360,7 +360,7 @@ hr {
 
 .intro .slogan h2 {
 	color: #FFF;
-	text-shadow: none;
+	text-shadow: #FFF;
 	font-size: 60px;
 	line-height: 60px;
 	font-weight: 700;
