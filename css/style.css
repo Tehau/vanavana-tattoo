@@ -578,7 +578,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 footer {
 	text-align: center;
 	padding: 50px 0 ;
-
+    background-color: #a20909 !important;
 }
 
 footer p {
@@ -790,7 +790,7 @@ Parallax
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #a20909;
+        background-color: #a20909 !important;
     }
 /**/
     .navbar-custom.top-nav-collapse {
